@@ -1,2 +1,2 @@
-# first-project
-The first project
+# first_project
+The first new project
